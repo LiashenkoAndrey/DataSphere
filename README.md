@@ -1,2 +1,2 @@
 # DataSphere
-wefwewefewr
+Study project
